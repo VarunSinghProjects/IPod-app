@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ipod-app/static/css/main.0b1c40cd.css",
+    "main.js": "/ipod-app/static/js/main.baf301fa.js",
+    "static/media/BreakingTheRules.mp3": "/ipod-app/static/media/BreakingTheRules.dc5f8aa319c199bcfb37.mp3",
+    "static/media/DirtyLittleSecret.mp3": "/ipod-app/static/media/DirtyLittleSecret.77d4c324e03c93804205.mp3",
+    "static/media/PlayDate.mp3": "/ipod-app/static/media/PlayDate.b84bb9b5a8fdec227e2d.mp3",
+    "static/media/FakeASmile.mp3": "/ipod-app/static/media/FakeASmile.03fa6dc08c116adf2e29.mp3",
+    "index.html": "/ipod-app/index.html",
+    "main.0b1c40cd.css.map": "/ipod-app/static/css/main.0b1c40cd.css.map",
+    "main.baf301fa.js.map": "/ipod-app/static/js/main.baf301fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1c40cd.css",
+    "static/js/main.baf301fa.js"
+  ]
+}
